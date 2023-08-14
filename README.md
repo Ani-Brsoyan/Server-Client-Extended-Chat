@@ -12,7 +12,7 @@ You are enabled to create an employee, delete an employee, or see the list of cr
 
 Here is the list of the available commands
 ***
-CREATE EMPLOYEE { [name], [department], [salary] }
+CREATE EMPLOYEE { [name], [department], [salary] } <br />
 LIST EMPLOYEE { * }
 LIST EMPLOYEE { DEPARTMENT = [dep] }
 DELETE EMPLOYEE { ID = [id] }
