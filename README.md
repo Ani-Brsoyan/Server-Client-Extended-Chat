@@ -1,5 +1,5 @@
-#README
-##Server-Client Extended Chat
+# README
+## Server-Client Extended Chat
 
 This code works on Linux
 
