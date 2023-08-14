@@ -13,8 +13,8 @@ You are enabled to create an employee, delete an employee, or see the list of cr
 Here is the list of the available commands
 ***
 CREATE EMPLOYEE { [name], [department], [salary] } <br />
-LIST EMPLOYEE { * }
-LIST EMPLOYEE { DEPARTMENT = [dep] }
+LIST EMPLOYEE { * } <br />
+LIST EMPLOYEE { DEPARTMENT = [dep] } <br />
 DELETE EMPLOYEE { ID = [id] }
 ***
 Don't forget to put a space after every statement
