@@ -3,14 +3,14 @@
 
 This code works on Linux
 
-Open two terminals. Compile in one .cpps of "Server" file and in the other .cpp of "Client" file.
-First, run the exe for the server with any port number that is accesable (for example 8080).
-After, run the exe for a client with an IP address (as I work on the same computer, I use localHost 127.0.0.1) and port number (definitely the same as you gave to server).
+Open two terminals. Compile in one .cpps of the "Server" file and in the other .cpp of the "Client" file.
+First, run the exe for the server with any port number that is accessible (for example 8080).
+After, run the exe for a client with an IP address (as I work on the same computer, I use localHost 127.0.0.1) and port number (definitely the same as you gave to the server).
 
-When everything is done well, you will see blinking cursor waiting fo your request.
-You are enabled to create an employee, delete an employee or see the list of created employees.
+When everything is done well, you will see a blinking cursor waiting for your request.
+You are enabled to create an employee, delete an employee, or see the list of created employees.
 
-Here is the available commands list
+Here is the list of the available commands
 ***
 CREATE EMPLOYEE { [name], [department], [salary] }
 LIST EMPLOYEE { * }
