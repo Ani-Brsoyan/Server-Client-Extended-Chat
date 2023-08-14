@@ -15,9 +15,10 @@ Here is the list of the available commands
 CREATE EMPLOYEE { [name], [department], [salary] } <br />
 LIST EMPLOYEE { * } <br />
 LIST EMPLOYEE { DEPARTMENT = [dep] } <br />
-DELETE EMPLOYEE { ID = [id] }
+DELETE EMPLOYEE { ID = [id] } 
 ***
-Don't forget to put a space after every statement
+Don't forget to put a space after every statement.
+Type "exit" if you want to end the session.
 
 NOTE!
 As the program is under development you are allowed to cin only a word in the fields of [name] and [department].
